@@ -1,0 +1,35 @@
+input{
+    width: 55%;
+    height: 30px;
+    border-color: rgb(117, 125, 228);
+    color: rgb(63, 19, 184);
+}
+div{
+    margin-top: 1%;
+}
+p{
+    color: rgb(89, 43, 199);
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.button1{
+    margin-top: 5%;
+    height: 50px;
+    width: 280px;
+    font-size: 20px;
+    border: none;
+    color: rgb(69, 9, 209); ;
+    background-color: rgb(143, 145, 194);;
+}
+.header{
+    margin-top: 2%;
+    height: 580px;
+    width: 500px;
+    margin-left: 30%;
+    padding-top: 2%;
+    background-color: aquamarine;
+}
+.footer{
+    margin-top:5%;
+}
